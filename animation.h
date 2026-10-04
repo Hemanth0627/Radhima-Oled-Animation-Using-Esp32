@@ -13,7 +13,7 @@ typedef struct {
     const uint16_t* delays;
     const uint8_t (* frames)[1024];
 } AnimatedGIF;
-#endif // ANIMATED_GIF_DEFINED
+#endif 
 
 #define RADHIMA_FRAME_COUNT 214
 #define RADHIMA_WIDTH 128
