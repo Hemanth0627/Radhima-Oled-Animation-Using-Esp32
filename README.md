@@ -73,7 +73,7 @@ If you connect the OLED to different GPIO pins, change these two definitions in 
 
 ## HOW IT WORKS
 
-The ESP32 initializes the SSD1306 OLED using I2C and sequentially displays the bitmap frames stored in `animation_no_GSN_CREATIONS.h`.
+The ESP32 initializes the SSD1306 OLED using I2C and sequentially displays the bitmap frames stored in `animation.h`.
 
 Each frame is drawn on the OLED and displayed for approximately 100 ms before the next frame is loaded.
 
