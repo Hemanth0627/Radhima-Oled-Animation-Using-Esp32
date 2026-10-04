@@ -4,7 +4,7 @@ This project displays a **214-frame bitmap animation** on a 128×64 SSD1306 OLED
 
 The animation uses a frame delay of **100 ms**, giving a nominal playback rate of approximately **10 frames per second**. One complete animation cycle takes approximately **21.4 seconds**.
 
-The original animation contained 222 frames. **8 introductory GSN CREATIONS frames were removed**, leaving 214 frames in `animation_no_GSN_CREATIONS.h`.
+The original animation contained 222 frames.
 
 ## FILES
 
