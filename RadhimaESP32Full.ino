@@ -8,8 +8,7 @@
 #define OLED_RESET -1
 #define OLED_ADDRESS 0x3C
 
-// For a common ESP32 DevKit, SDA=GPIO 21 and SCL=GPIO 22.
-// Change these pins if your OLED is wired to different pins.
+
 #define OLED_SDA 32
 #define OLED_SCL 33
 
